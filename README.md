@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/PLACEHOLDER/tu-foto.png" width="150" style="border-radius:50%;border:3px solid #E63946;"/>
+<img src="./Dam-Dev.png" width="150" style="border-radius:50%;border:3px solid #E63946;"/>
 
 <br><br>
 
@@ -35,7 +35,7 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 ### 💻 Lenguajes de Programación
 
-<div align="center">
+<div align="left">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,7 +48,7 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 ### 🎨 Frontend
 
-<div align="center">
+<div align="left">
 
 ![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -61,7 +61,7 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 ### ⚙️ Backend & Mobile
 
-<div align="center">
+<div align="left">
 
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -77,7 +77,7 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 ### 🗄️ Bases de Datos
 
-<div align="center">
+<div align="left">
 
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -87,7 +87,7 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 ### 🔧 Herramientas
 
-<div align="center">
+<div align="left">
 
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -103,12 +103,12 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=damamv18&show_icons=true&theme=dark&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=E6F1FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damamv18&theme=dark&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhilsen18&show_icons=true&theme=dark&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=E6F1FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhilsen18&theme=dark&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damamv18&layout=compact&theme=dark&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=E6F1FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=dark&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=E6F1FF" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=damamv18&theme=react-dark&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhilsen18&theme=react-dark&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF&hide_border=true" width="90%"/>
 
 </div>
 
@@ -116,7 +116,7 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=damamv18&color=0A192F&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhilsen18&color=0A192F&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
