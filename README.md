@@ -32,28 +32,43 @@
 
 <br>
 
-## 🛠️ Tecnologías con las que trabajo
+## 🛠️ Tech Stack
+
+### 💻 Lenguajes de Programación
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0A192F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0A192F?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MYSQL-0A192F?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![C++](https://img.shields.io/badge/C%2B%2B-0A192F?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/PYTHON-0A192F?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/JAVA-0A192F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
-### 🧩 Frameworks
+### 🎨 Frontend
 
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/LARAVEL-0A192F?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0A192F?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![React](https://img.shields.io/badge/REACT-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### ⚙️ Backend & Mobile
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
+### 🗄️ Bases de Datos
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -61,11 +76,11 @@
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20CODE-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-0A192F?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
-![Postman](https://img.shields.io/badge/POSTMAN-0A192F?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Git](https://img.shields.io/badge/GIT-0A192F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-0A192F?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
