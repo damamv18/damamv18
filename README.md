@@ -99,26 +99,18 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 <br>
 
-## 📊 Estadísticas de GitHub
+## 📊 Logros y Métricas de GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=damamv18&show_icons=true&theme=dark&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=E6F1FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damamv18&theme=dark&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=damamv18&theme=onedark&no-frame=true&column=4" width="90%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damamv18&layout=compact&theme=dark&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=E6F1FF" width="49%"/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=damamv18&theme=react-dark&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF&hide_border=true" width="90%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=damamv18&color=4C6EF5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <br>
-
-<div align="center">
-
-![GitHub Stats](https://img.shields.io/badge/GITHUB-STATS_ACTIVE-64FFDA?style=for-the-badge&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=damamv18&color=0A192F&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer" width="100%"/>
