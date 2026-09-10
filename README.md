@@ -1,34 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Dam%20Dev&fontSize=60&fontColor=64FFDA&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://i.postimg.cc/PLACEHOLDER/tu-foto.png" width="150" style="border-radius:50%;border:3px solid #E63946;"/>
 
-<h2>
-  ¡Hola, soy Dam Dev!
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wave.gif" width="30px"/>
-</h2>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UPC;Desarrollador+Full+Stack;Apasionado+por+resolver+problemas+con+c%C3%B3digo;Siempre+aprendiendo+cosas+nuevas+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1200&color=E63946&center=true&vCenter=true&width=700&height=60&lines=FULL+STACK+DEVELOPER;DHILSEN+MALLQUI+VILCA" alt="Typing SVG"/>
+
+<br>
+
+[![Portafolio](https://img.shields.io/badge/▲_VER_PORTFOLIO-E63946?style=for-the-badge&logoColor=white)](https://portfoliooo-dhilsen.vercel.app/)
+![Ingeniería de Software](https://img.shields.io/badge/INGENIERIA_DE_SOFTWARE-6A040F?style=for-the-badge)
+![UPC](https://img.shields.io/badge/UPC-6A040F?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/FULL_STACK-E63946?style=for-the-badge)
+![Developer](https://img.shields.io/badge/DEVELOPER-E63946?style=for-the-badge)
+![Lima](https://img.shields.io/badge/📍_LIMA-6A040F?style=for-the-badge)
+![Perú](https://img.shields.io/badge/PERU-E63946?style=for-the-badge)
 
 </div>
 
 <br>
 
-## 🚀 Sobre mí
+## 🧑‍💻 Sobre Mí
 
-- 🎓 Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**.
-- 💻 Me apasiona usar el software como solución para cualquier **problema**.
-- 🌱 Actualmente aprendiendo **Desarrollo Web** y **Buenas Prácticas de Ingeniería de Software**.
-- 🧠 Siempre estoy **aprendiendo cosas nuevas**.
-- 📌 Puedes visitar mi **[Portafolio](https://portfoliooo-dhilsen.vercel.app/)** para ver mis proyectos.
-- 📫 Abierto a nuevas oportunidades y colaboraciones.
+Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**, apasionado por construir productos digitales completos, desde la interfaz hasta la arquitectura que los sostiene.
 
-<br>
-
-<div align="center">
-
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA)](https://portfoliooo-dhilsen.vercel.app/)
-
-</div>
+- 🎯 Enfocado en **desarrollo frontend** y experiencias centradas en el usuario.
+- 🧩 Como desarrollador **Full Stack**, me muevo con comodidad entre interfaces y backend.
+- 🚀 Aprendiendo constantemente sobre **arquitectura de software** y buenas prácticas.
+- 🕺 Fuera del código, soy **bailarín** — una disciplina que me enseña precisión, ritmo y creatividad, valores que también aplico al programar.
 
 <br>
 
