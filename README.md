@@ -116,6 +116,7 @@ Estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencia
 
 <div align="center">
 
+![GitHub Stats](https://img.shields.io/badge/GITHUB-STATS_ACTIVE-64FFDA?style=for-the-badge&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=damamv18&color=0A192F&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
