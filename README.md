@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Dam-Dev.png" width="150" style="border-radius:50%;border:3px solid #E63946;"/>
+<img src="./Dam-Dev.png" width="100%" alt="Header Banner"/>
 
 <br><br>
 
